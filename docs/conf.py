@@ -39,26 +39,26 @@ html_show_sphinx = True
 html_show_sourcelink = False 
 # remove all side bars, only have horizontal nav in header
 html_sidebars = {"**": []}
-## html_theme = "sphinx_book_theme"
 html_theme = "pydata_sphinx_theme"
 html_theme_options = {
     "navbar_align": "left",
-    "use_download_button": False,
     "github_url": "https://github.com/joeldodson/braille",
-    "repository_branch": "main",
-    "use_issues_button": True,
-    "use_repository_button": True,
-    "home_page_in_toc": True,
+    "content_footer_items": [],
     "footer_start": [],
     "footer_end": [],
-    # I've seen footer content items specified in two different ways
-    # need to set it to [] to avoid default cruft in the footer.
-    "footer_content_items": [],
-    "content_footer_items": [],
     "footer_center": ["sphinx-version", "theme-version", "last-updated"],
     "show_version_warning_banner": False,
-    # no secondary sidebars for any pages 
+    # no secondary sidebars for any pages
     "secondary_sidebar_items": {"**": []},
-    # trying to get rid of inaccessible color mode switcher 
+    # trying to get rid of inaccessible color mode switcher
     "navbar_end": ["navbar-icon-links"],
+    ###
+    # folowing are options (I think) only used by sphinx-book-theme
+    # leaving them here in case I try that theme again
+    ## "use_download_button": False,
+    ## "repository_branch": "main",
+    ## "use_issues_button": True,
+    ## "use_repository_button": True,
+    ## "home_page_in_toc": True,
+    ## "footer_content_items": [],
 }
