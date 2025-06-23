@@ -3,7 +3,7 @@
 As I was trying to learn the braille codes to use the Hable One, I could not find easy to reference tables published on a simple website.
 So here they are, under the tables menu.
 
-I also want easy to access cheat sheets for various Braille input devices I might use.
+I also want easy to access references for various Braille input devices I might use.
 I'm starting with [Hable One](https://iamhable.com), also on the menu.
 
 I toyed with structuring these reference pages into multiple pages with menus and sub-menus with each page focused on a narrow topic.
