@@ -28,7 +28,7 @@ or jump directly to tables if you already know what you're looking for.
 
  ### I'm typing single letters but sometimes get complete words or multiple letters
 
- You are almost certainly in contractions mode.  
- Hold down the keys 1, 2, 4, 5.  
- If you feel a single buzz, you have gone from contracted mode back to single letter (grade 1) mode.  
+ You are almost certainly in contractions mode.
+ Hold down the keys 1, 2, 4, 5.
+ If you feel a single buzz, you have gone from contracted mode back to single letter (grade 1) mode.
  If you feel two buzzes, you have gone into contracted mode and I have no idea what the initial problem was.

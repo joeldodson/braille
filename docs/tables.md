@@ -2,11 +2,27 @@
 
 ## Letters
 
-The below table shows the brille codes for the letters 'a' through 'z'.  The code by itself will generate a lower case letter.  This is consistent with typing on a keyboard.  For a capital letter, 'shift' is used on a keyboard.  The 'shift' key is known as a modifier.  
+The below table shows the brille codes for the letters 'a' through 'z'.
+The code by itself will generate a lower case letter.
+This is consistent with typing on a keyboard, press a key and get the lower case symbol.
+For a capital letter, 'shift' is used on a keyboard.
+The 'shift' key is known as a modifier.
 
 ## Capital Letters
 
-For braille input, the cell button 6 is the modifier key.  It is mostly analogous to the 'shift' key on a keyboard.  The difference is on a keyboard you press and hold down the 'shift' key and press the desired letter to generate its capital.  For braille input, the modifier cell button(s) is pressed and released, then the cell buttons  are pressed for the desired letter.  To generate a capital letter, first press and release the 6 cell button then press the cell buttons for the desired letter. 
+For braille input, the cell button 6 is the modifier key.
+It is mostly analogous to the 'shift' key on a keyboard.
+The difference is on a keyboard you press and hold down the 'shift' key and press the desired letter to generate its capital.
+For braille input, the modifier cell button(s) is pressed and released, then the cell buttons  are pressed for the desired letter.
+To generate a capital letter, first press and release the 6 cell button then press the cell buttons for the desired letter.
+
+If you want to type a word in all capitals, press the 6 key twice, then the word.
+All letters will be capitalized until a non letter is typed.
+
+There is also an option closer to caps-lock.
+By pressing the 6 key three times,
+everything you type until the end of line will be capitalized.
+To exit capital mode, press keys 1, 8 or 2, 8 (as you'll see in the Hable One reference).
 
 ```{list-table} Braille codes for letters
 :header-rows: 1
@@ -97,7 +113,8 @@ For braille input, the cell button 6 is the modifier key.  It is mostly analogou
 
 ## Digits (0 - 9)
 
-The digits 0 through 9 are the same as the characters 'a' through 'j'.  A combination of modifier keys is used to generate a number much like the 6 key is used as a modifier key to generate a capital letter.
+The digits 0 through 9 are the same as the characters 'a' through 'j'.
+A combination of modifier keys is used to generate a number much like the 6 key is used as a modifier key to generate a capital letter.
 
 Quickly press and release the keys 3, 4, 5, 6 at the same time to start entering digits.
 As long as you're entering valid digit codes, digits will be generated.
@@ -145,10 +162,19 @@ you will be out of digit mode and back into letters and punctuation.
 ## Punctuation
 
 These values are taken from a manual from Hable One, though any mistakes are mine.  I have done some manipulation to get them into the appropriate markdown format.
-I've included their full list in alphabetic order 
-And in a separate table included a subset based on the string from python's string.punctuation module.
+The first table is a subset of symbols based on python.
+The next table is the complete list from the Hable One manual.
 
 ### Punctuation subset 
+
+The folowing table is the list of symbols found in Python's string.punctuation module.
+You can find the list yourself by running (if you have a command line and Python installed):
+``` bash
+python -c "import string; print(string.punctuation)"
+```
+The table is not in the same order as the python string.
+It's mostly alphabetical, taken from the Hable One list.
+I made a few changes (e.g., grouping less and greater than, swapping the order of closing/opening symbols).
 
 ```{list-table} Braille codes for punctuation, subset
 :header-rows: 1
