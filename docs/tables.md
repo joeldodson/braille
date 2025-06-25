@@ -167,7 +167,7 @@ The next table is the complete list from the Hable One manual.
 
 ### Punctuation subset 
 
-The folowing table is the list of symbols found in Python's string.punctuation module.
+The following table is the list of symbols found in Python's string.punctuation module.
 You can find the list yourself by running (if you have a command line and Python installed):
 ``` bash
 python -c "import string; print(string.punctuation)"
