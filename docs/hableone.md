@@ -5,10 +5,14 @@ is a braille input device to operate an iOS or Android mobile device.
 It has 8 input keys, the standard 1 through 6 dots plus dots 7 and 8.
 The keys are used not only for typing using braille input, but to control the mobile device as well.
 It works great with both VoiceOver on iOS and TalkBack on Android.
+Watch the [Shaun of the Shed video, Control your iPhone without touching it](https://www.youtube.com/watch?v=udrLSvPNxQY) for a quick introduction.
 
 This page contains all the commands common to both platforms as well as commands specific to iOS and Android.
 Follow the heading structure and read any notes for the section,
 or jump directly to tables if you already know what you're looking for.
+
+If you find something doesn't work as documented, or you think something is missing, or you have suggestions for clarification,
+please [email blindgumption](mailto:blindgumption@gmail.com). 
  
  ## Hable's Documentation
 
@@ -17,17 +21,17 @@ or jump directly to tables if you already know what you're looking for.
  The manuals contain descriptions and initializing information not presented here.
  This reference is taken mostly from the manuals with some notes based on my experiences.
  I've also gone through the playlists from the [Hable One YouTube channel](https://www.youtube.com/@hableone) and provided some summaries.
- Some videos have information already presented in the manuals, which I don't call out.
+ Some videos have information already presented in the manuals, which I don't call out as the reference is already documented.
  It's a good idea to go through the play lists at least once when learning the Hable One.
  I don't provide any links in here to specific videos.
- This site is intended to be browsed quickly to look for information you might have forgotten or missed earlier.
+ This site is intended to be browsed quickly to look for information you might have forgotten or missed earlier, I don't want to add link clutter.
 
- ## Common Commands
+## Common Commands
 
 This section contains commands used for both iOS and Android devices.
- These include commands to configure the Hable One itself
- (e.g., change the language, switch between Android and iOS),
- as well as generic commands consistent across both platforms.
+These include commands to configure the Hable One itself
+(e.g., change the language, switch between Android and iOS),
+as well as generic commands consistent across both platforms.
 
 ### Note on Android or iOS
 
@@ -106,15 +110,74 @@ Remember you need to be in the Hable menu for these commands to work.
   - 2, 3, 4
 ```
 
- ## Android Commands
+### Mobile Device Navigation
+
+As noted above, moving around an Android or iOS device has a lot in common.
+They might use different terms in some cases, but the ideas are the same.
+For example, there's a home screen and a list of running applications,
+and there's a need to go to the next and previous items,
+maybe those items are controls within an app, or icons of apps on the screen.
+
+The table below are the controls used in both Android and iOS modes to navigate the device,
+including selecting/activating the item currently in focus.
+
+```{list-table} Commands to navigate the mobile device
+:header-rows: 1
+:stub-columns: 1
+
+* - Action
+  - Keys
+  - Notes
+
+* - go to home screen
+  - hold keys 1, 2, 5
+  - same as letter h 
+
+* - Move to next item
+  - hold 7, press 8
+  - go to next app on the screen or next item within an app
+
+* - Move to previous item
+  - hold 8, press 7
+  - go to previous app on the screen or previous item within an app
+
+```
+
+## Android Commands
 
  Below are the commands used to control an Android based device.
+
+```{list-table} Commands to navigate Android
+:header-rows: 1
+:stub-columns: 1
+
+* - Action
+  - Keys
+  - Notes
+
+* - placeholder
+  - placeholder
+  - no notes
+```
 
  ## iOS
 
  Below are commands used to control an iOS based device.
+
+```{list-table} Commands to navigate iOS
+:header-rows: 1
+:stub-columns: 1
+
+* - Action
+  - Keys
+  - Notes
+
+* - placeholder
+  - placeholder
+  - no notes
+```
  
- ## Troubleshooting
+## Troubleshooting
 
  ### I'm typing single letters but sometimes get complete words or multiple letters
 
@@ -133,4 +196,6 @@ Remember you need to be in the Hable menu for these commands to work.
  You can check the braille key/dot settings by pressing the 1 key in a text editing field.
  If you get an 'a', the dots/keys are in standard configuration.
  If you don't get an 'a', they are probably swapped.
+ Try pressing the 3 key.
+ If that results in an 'a', cells are swapped.
 
