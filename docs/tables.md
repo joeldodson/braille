@@ -1,5 +1,9 @@
 # Tables of Braille Codes
 
+This page is currently focused on Unified English Braille (UEB) for Grade 1.
+That is, basic English characters, digits 0 through 9, and punctuation.
+Maybe someday I'll expand beyond that and learn contractions.
+
 ## Letters
 
 The below table shows the brille codes for the letters 'a' through 'z'.
@@ -250,9 +254,9 @@ I made a few changes (e.g., grouping less and greater than, swapping the order o
   - 5, then, 2, 3, 5
 
 * - Question mark      , ?
-  - 2, 3, 7
+  - 2, 3, 6
 
-* - Quotation Mark       , "
+* - &Quotation Mark       , "
   - 6, then, 2, 3, 5, 6
 
 * - Semicolon       , ;
@@ -425,7 +429,7 @@ I made a few changes (e.g., grouping less and greater than, swapping the order o
   - 2, 3, 5, 6
 
 * - Question mark      , ?
-  - 2, 3, 7
+  - 2, 3, 6
 
 * - Quotation Mark       , "
   - 6, then, 2, 3, 5, 6
