@@ -22,6 +22,9 @@ extensions = [
     ## "sphinx.ext.autosectionlabel",
 ]
 
+## have link refs auto created for headings up to level 3 
+myst_heading_anchors = 3
+
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 

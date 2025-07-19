@@ -30,7 +30,7 @@ the first cell with a single dot 4 and the second cell with single dot 1.
 Maybe this is only true for grade 1 braille.
 
 Some less common characters have even longer sequences.
-In the table with symbols, there's a symbol called a double dagger.
+In the table with punctuation/symbols, there's a symbol called a double dagger.
 For that, you press and release the 4 key, then the 6 key, then the keys 1, 2, 4, 5, 6.
 
 To represent sequences, where keys are pressed and released to affect how the next set of keys is interpreted, I separate each set of keys by the word "then".

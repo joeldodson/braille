@@ -2,6 +2,7 @@
 
 I'm totally blind and use screen readers on computers of all types (e.g., mobile devices and laptops).
 I hate typing on the virtual keyboard thus am limited on a mobile device (unless I carry around a large bluetooth keyboard).
+
 By 2024, I had been blind more than 7 years and learned nearly nothing about braille.
 I had heard great things about the [Hable One braille input device](https://iamhable.com).
 I decided I'd get one to be more efficient on a mobile device and learn braille, at least for input.
@@ -16,7 +17,7 @@ I had the Hable One split into three pages, common commands, iOS, and Android.
 That was making the sphinx and pydata-sphinx-theme more complicated to configure with less accessible output,
 and navigation took longer than what I wanted to get to some basic information.
 
-I decided to significantly simplify braille.codes by, at least for now, June 2025, keeping a very flat structure.
+I decided to significantly simplify braille.codes by, at least for now, July 2025, keeping a very flat structure.
 
 Each page now has more information though still related under a broad topic, e.g., Hable One.
 I'm very careful though to optimize accessibility using semantic HTML as much as possible
@@ -44,7 +45,7 @@ See the article, [Configure DNS on NameCheap to link domain to GitHub Pages](htt
 ## Future?
 
 My initial goal is to be able to use an iOS and an Android mobile device efficiently with the Hable One.
-As of June, 2025, braille.codes is very much manually created specifically based around my needs.
+As of July , 2025, braille.codes is very much manually created specifically based around my needs.
 Hopefully, others can find it useful.
 
 As I was digging around in various braille organizations and GitHub repos looking for references,
