@@ -533,6 +533,14 @@ Below are commands used to control an iOS based device.
   - hold 6, press 7
   - note similar pattern to next item using rotor setting
 
+* - Single Finger Swipe Down
+  - hold 7, press 6
+  - 
+
+* - Single Finger Swipe Up
+  - hold 6, press 7
+  - 
+
 * - Copy Speech to Clipboard
   - hold 1, 2, 3, 5, 6
   - seems to only copy last spoken text, no option to scroll back
