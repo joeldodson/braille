@@ -1,10 +1,5 @@
 # Hable One
 
-- a list of stuff
-- another entry in the list 
-- and a third entry
-{aria-label="label for this experimental list"}
-
 The [Hable One ](https://iamhable.com)
 is a braille input device to operate an iOS or Android mobile device.
 It has 8 input keys, the standard 1 through 6 dots plus dots 7 and 8.
